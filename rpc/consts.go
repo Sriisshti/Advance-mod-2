@@ -2,7 +2,6 @@
 // See the file LICENSE for licensing terms.
 
 package rpc
-
 const (
 	JSONRPCEndpoint = "/tokenapi"
 

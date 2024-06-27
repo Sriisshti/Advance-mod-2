@@ -2,7 +2,6 @@
 // See the file LICENSE for licensing terms.
 
 package e2e_test
-
 import (
 	"context"
 	"flag"

@@ -4,7 +4,6 @@
 package cmd
 
 import "errors"
-
 var (
 	ErrInputEmpty          = errors.New("input is empty")
 	ErrInvalidArgs         = errors.New("invalid args")

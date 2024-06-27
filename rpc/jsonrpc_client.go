@@ -6,7 +6,6 @@ package rpc
 import (
 	"context"
 	"strings"
-
 	"github.com/ava-labs/avalanchego/ids"
 
 	"github.com/ava-labs/hypersdk/chain"

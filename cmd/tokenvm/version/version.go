@@ -11,7 +11,6 @@ import (
 	"github.com/ava-labs/hypersdk/examples/tokenvm/consts"
 	"github.com/ava-labs/hypersdk/examples/tokenvm/version"
 )
-
 func init() {
 	cobra.EnablePrefixMatching = true
 }

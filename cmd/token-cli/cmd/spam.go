@@ -14,7 +14,6 @@ import (
 	"sync/atomic"
 	"syscall"
 	"time"
-
 	"github.com/ava-labs/avalanchego/ids"
 	"github.com/ava-labs/avalanchego/utils/math"
 	"github.com/ava-labs/hypersdk/crypto"

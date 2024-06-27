@@ -1,6 +1,5 @@
 ## Deploying Devnets
 _In the world of Avalanche, we refer to short-lived, test Subnets as Devnets._
-
 ### Step 1: Install `avalanche-ops`
 [avalanche-ops](https://github.com/ava-labs/avalanche-ops) provides a command-line
 interface to setup nodes and install Custom VMs on both custom networks and on

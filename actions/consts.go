@@ -2,5 +2,4 @@
 // See the file LICENSE for licensing terms.
 
 package actions
-
 const MaxMetadataSize = 256

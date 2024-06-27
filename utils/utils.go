@@ -2,7 +2,6 @@
 // See the file LICENSE for licensing terms.
 
 package utils
-
 import (
 	"github.com/ava-labs/hypersdk/crypto"
 

@@ -2,7 +2,6 @@
 // See the file LICENSE for licensing terms.
 
 package actions
-
 import (
 	"github.com/ava-labs/avalanchego/ids"
 	"github.com/ava-labs/hypersdk/chain"

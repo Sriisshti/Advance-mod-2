@@ -8,12 +8,10 @@ import (
 	"fmt"
 	"net/url"
 	"os"
-
 	"github.com/ava-labs/hypersdk/utils"
 	"github.com/spf13/cobra"
 	"gopkg.in/yaml.v2"
 )
-
 var prometheusCmd = &cobra.Command{
 	Use: "prometheus",
 	RunE: func(*cobra.Command, []string) error {

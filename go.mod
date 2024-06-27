@@ -4,6 +4,7 @@ go 1.20
 
 require (
 	github.com/ava-labs/avalanche-network-runner v1.4.1
+	
 	github.com/ava-labs/avalanchego v1.10.1
 	github.com/ava-labs/hypersdk v0.0.7
 	github.com/ava-labs/hypersdk/examples/tokenvm v0.0.0-20230511233943-bdd30e00bdff

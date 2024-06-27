@@ -7,7 +7,6 @@ import (
 	"github.com/ava-labs/hypersdk/chain"
 	"github.com/ava-labs/hypersdk/crypto"
 )
-
 func GetActor(auth chain.Auth) crypto.PublicKey {
 	switch a := auth.(type) {
 	case *ED25519:

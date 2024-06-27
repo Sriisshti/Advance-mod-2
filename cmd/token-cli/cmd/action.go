@@ -3,7 +3,6 @@
 
 //nolint:lll
 package cmd
-
 import (
 	"context"
 	"errors"

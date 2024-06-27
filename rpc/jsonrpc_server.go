@@ -5,7 +5,6 @@ package rpc
 
 import (
 	"net/http"
-
 	"github.com/ava-labs/avalanchego/ids"
 
 	"github.com/ava-labs/hypersdk/examples/tokenvm/genesis"

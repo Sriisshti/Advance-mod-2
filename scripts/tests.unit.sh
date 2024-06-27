@@ -3,7 +3,6 @@
 # See the file LICENSE for licensing terms.
 
 set -e
-
 # Set the CGO flags to use the portable version of BLST
 #
 # We use "export" here instead of just setting a bash variable because we need

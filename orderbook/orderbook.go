@@ -5,7 +5,6 @@ package orderbook
 
 import (
 	"sync"
-
 	"github.com/ava-labs/avalanchego/ids"
 	"github.com/ava-labs/hypersdk/crypto"
 	"github.com/ava-labs/hypersdk/examples/tokenvm/actions"

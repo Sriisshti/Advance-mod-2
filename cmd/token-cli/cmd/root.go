@@ -7,7 +7,6 @@ package cmd
 import (
 	"fmt"
 	"time"
-
 	"github.com/ava-labs/avalanchego/database"
 	"github.com/ava-labs/hypersdk/pebble"
 	"github.com/ava-labs/hypersdk/utils"

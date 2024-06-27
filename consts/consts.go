@@ -21,7 +21,6 @@ const (
 )
 
 var ID ids.ID
-
 func init() {
 	b := make([]byte, consts.IDLen)
 	copy(b, []byte(Name))

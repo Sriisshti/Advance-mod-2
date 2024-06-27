@@ -5,7 +5,6 @@ package actions
 
 import (
 	"context"
-
 	"github.com/ava-labs/avalanchego/ids"
 	smath "github.com/ava-labs/avalanchego/utils/math"
 	"github.com/ava-labs/avalanchego/vms/platformvm/warp"

@@ -2,7 +2,6 @@
 // See the file LICENSE for licensing terms.
 
 package actions
-
 var (
 	OutputValueZero              = []byte("value is zero")
 	OutputAssetIsNative          = []byte("cannot mint native asset")

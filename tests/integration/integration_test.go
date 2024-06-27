@@ -2,7 +2,6 @@
 // See the file LICENSE for licensing terms.
 
 package integration_test
-
 import (
 	"context"
 	"encoding/hex"

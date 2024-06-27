@@ -8,7 +8,6 @@ import (
 	"fmt"
 	"strconv"
 	"strings"
-
 	"github.com/ava-labs/avalanchego/ids"
 	"github.com/ava-labs/avalanchego/utils/set"
 	hconsts "github.com/ava-labs/hypersdk/consts"

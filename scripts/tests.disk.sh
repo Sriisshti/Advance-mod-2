@@ -10,7 +10,6 @@ if ! [[ "$0" =~ scripts/tests.disk.sh ]]; then
   echo "must be run from repository root"
   exit 255
 fi
-
 # You need to install `fio` to run this job
 
 if ! command -v ginkgo &> /dev/null; then

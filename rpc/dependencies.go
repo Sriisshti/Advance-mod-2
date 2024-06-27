@@ -5,7 +5,6 @@ package rpc
 
 import (
 	"context"
-
 	"github.com/ava-labs/avalanchego/ids"
 	"github.com/ava-labs/avalanchego/trace"
 	"github.com/ava-labs/hypersdk/crypto"

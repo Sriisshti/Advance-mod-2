@@ -9,7 +9,6 @@ import (
 	"github.com/ava-labs/hypersdk/examples/tokenvm/consts"
 	"github.com/prometheus/client_golang/prometheus"
 )
-
 type metrics struct {
 	createAsset prometheus.Counter
 	mintAsset   prometheus.Counter

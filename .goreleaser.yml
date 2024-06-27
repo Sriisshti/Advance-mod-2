@@ -1,6 +1,5 @@
 # Copyright (C) 2023, Ava Labs, Inc. All rights reserved.
 # See the file LICENSE for licensing terms.
-
 # ref. https://goreleaser.com/customization/build/
 builds:
   - id: token-cli

@@ -11,7 +11,6 @@ import (
 	hutils "github.com/ava-labs/hypersdk/utils"
 	"github.com/fatih/color"
 	"github.com/spf13/cobra"
-
 	trpc "github.com/ava-labs/hypersdk/examples/tokenvm/rpc"
 	"github.com/ava-labs/hypersdk/examples/tokenvm/utils"
 )

@@ -7,7 +7,6 @@ import (
 	"fmt"
 	"strings"
 	"time"
-
 	"github.com/ava-labs/avalanchego/ids"
 	"github.com/ava-labs/avalanchego/utils/logging"
 	"github.com/ava-labs/avalanchego/utils/profiler"

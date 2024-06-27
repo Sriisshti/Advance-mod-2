@@ -6,7 +6,6 @@ package controller
 import (
 	"context"
 	"fmt"
-
 	ametrics "github.com/ava-labs/avalanchego/api/metrics"
 	"github.com/ava-labs/avalanchego/database"
 	"github.com/ava-labs/avalanchego/snow"

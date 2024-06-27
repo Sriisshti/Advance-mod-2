@@ -7,7 +7,6 @@ import (
 	"github.com/ava-labs/avalanchego/ids"
 	"github.com/ava-labs/hypersdk/examples/tokenvm/storage"
 )
-
 type StateManager struct{}
 
 func (*StateManager) HeightKey() []byte {

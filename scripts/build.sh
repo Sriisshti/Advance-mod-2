@@ -5,7 +5,6 @@
 set -o errexit
 set -o nounset
 set -o pipefail
-
 # Set the CGO flags to use the portable version of BLST
 #
 # We use "export" here instead of just setting a bash variable because we need
